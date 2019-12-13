@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/home/loki/Desktop/Udemy - Scala part 1/exercises-applied-part1/aoc/src/main/scala/adventofcode/FuelCounter.scala","c70d38d93c7e95872db28f261300f5402b7b84e8"]],"lastModifiedTimes":[]}}]
