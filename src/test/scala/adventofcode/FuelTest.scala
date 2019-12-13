@@ -17,7 +17,7 @@ import org.scalatest.funspec.AnyFunSpec
 // So, the total fuel required for a module of mass 1969 is 654 + 216 + 70 + 21 + 5 = 966.
 
 //The fuel required by a module of mass 100756 and its fuel is: 33583 + 11192 + 3728 + 1240 + 411 + 135 + 43 + 12 + 2 = 50346.
-
+//Nigel's test, trying to get on github
 class FuelTest extends AnyFunSpec {
   it("Calculates the fuel for a ship mass of 12") {
     val fuelMass = FuelCounter.shipFuelMass("12")
