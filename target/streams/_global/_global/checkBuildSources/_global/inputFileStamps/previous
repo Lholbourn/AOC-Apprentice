@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/loki/Desktop/aoc/build.sbt","2b9f12b0649f61f09307563bdfa1f791ba2dee68"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/loki/Desktop/aoc/AOC-Apprentice/build.sbt","2b9f12b0649f61f09307563bdfa1f791ba2dee68"]],"lastModifiedTimes":[]}]
